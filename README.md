@@ -1,0 +1,2 @@
+# ShortestWord
+JavaScript Codewars Exercise
